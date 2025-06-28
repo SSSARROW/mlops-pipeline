@@ -84,10 +84,3 @@ The pipeline includes comprehensive logging for:
 - Model evaluation metrics
 - Error handling and debugging
 
-## Future Enhancements
-
-- Model versioning and artifact storage
-- Hyperparameter tuning
-- Model deployment pipeline
-- Real-time prediction API
-- A/B testing framework 
