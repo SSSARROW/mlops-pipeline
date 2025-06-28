@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/sahan/OneDrive/Desktop/MlOps/mlruns/826332801202578638
+creation_time: 1750505456330
+experiment_id: '826332801202578638'
+last_update_time: 1750505456330
+lifecycle_stage: active
+name: training_pipeline

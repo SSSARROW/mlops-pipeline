@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahan/OneDrive/Desktop/MlOps/mlruns/826332801202578638/a3e120bd30724ed1a1486bb8d783994f/artifacts
+end_time: 1750505905337
+entry_point_name: ''
+experiment_id: '826332801202578638'
+lifecycle_stage: active
+run_id: a3e120bd30724ed1a1486bb8d783994f
+run_name: training_pipeline-2025_06_21-11_30_54_413972
+run_uuid: a3e120bd30724ed1a1486bb8d783994f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750505457296
+status: 3
+tags: []
+user_id: sahan

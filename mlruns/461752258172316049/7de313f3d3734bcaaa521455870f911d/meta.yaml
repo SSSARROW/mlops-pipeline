@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sahan/OneDrive/Desktop/MlOps/mlruns/461752258172316049/7de313f3d3734bcaaa521455870f911d/artifacts
+end_time: 1750773925631
+entry_point_name: ''
+experiment_id: '461752258172316049'
+lifecycle_stage: active
+run_id: 7de313f3d3734bcaaa521455870f911d
+run_name: continous_deployment_pipeline-2025_06_24-13_58_03_769762
+run_uuid: 7de313f3d3734bcaaa521455870f911d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750773522455
+status: 3
+tags: []
+user_id: sahan
